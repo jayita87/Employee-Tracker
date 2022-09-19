@@ -5,6 +5,7 @@
 [Description](#description) <br/>
 [Key Features](#key-features) <br/>
 [Walkthrough Video](#walkthrough-video) <br/>
+[Installation](#installation) <br/>
 [Screenshots](#screenshots) <br/>
 [Questions](#questions) <br/>
 [License](#license)
@@ -23,3 +24,20 @@ A database where an employer can view and manage their departments, roles, and e
 
 ## Walkthrough Video
 The following video demonstrates the application's functionality.
+
+## Screenshots 
+
+## Installation
+Clone the Github repo.
+```https://github.com/jayita87/Employee-Tracker```
+
+Once in the properly cloned folder, run ```npm install``` to install the following dependencies:
+ * Inquirer:  ```npm i inquirer```
+ * MySQL:  ```npm i mysql``` 
+ * Console Table:  ```npm i console.table``` for an easy to read table in your terminal.
+
+## License
+This project is license under MIT
+
+## Questions
+If you have any questions about this projects, please contact me directly at jayita.chowdhury.1987@gmail.com. You can view more of my projects at https://github.com/jayita87.
