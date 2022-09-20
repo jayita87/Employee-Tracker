@@ -1,19 +1,30 @@
 {
-  "name": "Employee-Tracker",
-  "lockfileVersion": 2,
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)",
   "main": "server.js",
-  "requires": true,
-  "start": "node server.js",
-  "packages": {
-    "": {
-      "dependencies": {
-        "console.table": "^0.10.0",
-        "express": "^4.18.1",
-        "inquirer": "^9.1.1",
-        "int": "^0.2.0",
-        "jshint": "^2.13.5",
-        "mysql2": "^2.3.3"
-      }
-    }
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayita87/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayita87/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/jayita87/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "int": "^0.2.0",
+    "jshint": "^2.13.5",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {}
 }
