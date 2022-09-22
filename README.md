@@ -28,7 +28,9 @@ The following video demonstrates the application's functionality.
 https://user-images.githubusercontent.com/107072905/191673540-b6721134-8680-432c-a736-179e53b4d217.mp4
 
 
-## Screenshots 
+## Screenshots
+<img width="857" alt="employeetracker" src="https://user-images.githubusercontent.com/107072905/191673820-32a20e93-77df-4fe5-8bd3-71135e560ca1.png">
+
 
 ## Installation
 Clone the Github repo.
