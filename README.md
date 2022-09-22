@@ -25,6 +25,9 @@ A database where an employer can view and manage their departments, roles, and e
 ## Walkthrough Video
 The following video demonstrates the application's functionality.
 
+https://user-images.githubusercontent.com/107072905/191673540-b6721134-8680-432c-a736-179e53b4d217.mp4
+
+
 ## Screenshots 
 
 ## Installation
