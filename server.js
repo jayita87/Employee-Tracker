@@ -61,7 +61,7 @@ function init() {
             case "Add Department?":
                 addDepartment();
                 break;
-                
+
             case "Update Employee Role:":
                 updateEmployeeRole();
                 break;
@@ -183,13 +183,14 @@ function updateEmployeeRole() {
     inquirer
         .prompt([
             {
-                type: "list",
-                message: "Enter the employee's name you want to be updated",
-                name: "updateEmployee"
+                type: "input",
+                name: "updateEmployee",
+                message: "What is the employee id update?",
+               
             },
             {
-                type: "list",
-                message: "Enter the new role for that employee",
+                type: "input",
+                message: "Enter the new role id for that employee",
                 name: "newRole"
             }
         ])
